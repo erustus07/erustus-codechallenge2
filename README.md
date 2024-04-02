@@ -19,12 +19,12 @@ Git
 
 ### Installation instruction
 ```
-Git clone git@github.com:erustus07/erustus-codechallenge2.git
 
+git@github.com:erustus07/erustus-codechallenge2.git
 ```
 
 # Live Link
- https://erustus07.github.io/erustus-codechallenge2/
+  https://erustus07.github.io/erustus-codechallenge2/
 
 ## Technologies used
 HTML
